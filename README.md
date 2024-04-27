@@ -11,4 +11,5 @@ Second, if you use them in a program developed by you, please indicate their ori
 Finally, if you find a commercial activity anywhere that uses the resources here, please do not get involved and report it to the author.
 
 # Licensed  
-All sources are licensed under CC BY-NC 4.0
+All sources are licensed under CC BY-NC 4.0.  
+Downloading is considered to be accepting and agreeing to the agreement.
