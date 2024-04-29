@@ -15,6 +15,4 @@ All sources are licensed under CC BY-NC 4.0.
 Downloading is considered to be accepting and agreeing to the agreement.  
 
 # Preview
-![alt text](<Preview 1.png>)
-![alt text](<preview 2.png>)  
 And More!
